@@ -1,4 +1,4 @@
-# Kitura i18n Example
+# Kitura i18n Sample
 
 This project is a fully pre-built [Kitura](http://www.kitura.io) site (dependencies aside) which demonstrates how [Kitura Translation](https://github.com/NocturnalSolutions/Kitura-Translation) and [Kitura Language Negotiation](https://github.com/NocturnalSolutions/Kitura-LanguageNegotiation) (which are also projects of mine) can be used together to build a site which supports common i18n (internationalization) functionality. It shows a simple message in English, or translated into Spanish, Simplified Chinese or Japanese.
 
