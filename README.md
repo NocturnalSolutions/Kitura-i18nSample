@@ -23,7 +23,7 @@ Hello!
 こんにちは！
 ```
 
-(Or use `wget` or `fetch` or what have you.)
+(Or use `wget` or `fetch` or what have you.)
 
 Okay, so that's not very interesting by itself. But open up `main.swift` and see what's going on here.
 
